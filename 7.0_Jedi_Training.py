@@ -10,7 +10,7 @@ The picture is 500px wide and 400px tall. Look up ARC in the documentation to do
 
 
 '''
-2. FLAG PROJECT  (10PTS)
+2. FLAG CREATION  (10PTS)
 ---------------
 Make your flag 260 pixels tall
 Use the scaling image on the website to determine other dimensions
