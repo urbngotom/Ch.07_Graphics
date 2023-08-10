@@ -1,5 +1,5 @@
 '''
-PYCASSO PROJECT (4PTS)
+PYCASSO PROJECT (4pts)
 ---------------
 Your job is to make a cool picture.
 You must use multiple colors.
