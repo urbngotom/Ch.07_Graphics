@@ -12,7 +12,7 @@ Please use comments and blank lines to make it easy to follow your program.
 If you have 5 lines that draw a robot, group them together with blank lines above and below. 
 Then add a comment at the top telling the reader what you are drawing.
 IN THE WINDOW TITLE PLEASE PUT YOUR NAME.
-When you are finished Pull Request your file to your instructor.
+When you are finished Upload both your code and a screenshot of your art.
 '''
 
 
